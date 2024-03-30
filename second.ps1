@@ -1,0 +1,1 @@
+Get-Content .\time_log.txt -Wait
